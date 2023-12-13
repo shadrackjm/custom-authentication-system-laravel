@@ -1,0 +1,21 @@
+welcome back to code with SJM
+-----------------------------
+
+AUTHENTICATION SYSTEM IN LARAVEL 10.
+------------------------------------
+1.User Registration module - video 1
+2.Login module - video 2
+3.Forgot password/Password recovery module - video 3
+
+Template Used:
+--------------
+NiceAdmin - Template 
+(if you missed the video on how to integrate NiceAdmin in Laravel 10 check
+the link provided in the description below.)
+
+what we will cover for Today's video #3:
+----------------------------------------
+
+1.FORGOT PASSWORD/PASSWORD RECOVERY MODULE
+------------------------------------------
+
